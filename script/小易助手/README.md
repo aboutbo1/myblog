@@ -15,6 +15,6 @@ xxxxxxxx
 1. 账号
 * 使用corp账号进行登录
 ### VPN功能
-1. 特殊测试账号测试VPN功能
+1. 特殊测试账号（无需进行手机号验证，即可连接VPN）
 * username:xiaoyi
 * password:fUVCi^PA4c
