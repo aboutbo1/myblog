@@ -10,7 +10,7 @@ https://app.home.netease.com/xiaoyi/download.html
 * 使用corp账号进行登录
 ## 测试版本
 ### 下载地址
-xxxxxxxx
+http://yys-git.dev.netease.com/shenfan/xiaoyi-qa/-/blob/main/Package/Test/xiaoyi_internal_test_V1.23.1.01.exe
 ### 基本功能
 1. 账号
 * 使用corp账号进行登录
